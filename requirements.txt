@@ -1,0 +1,12 @@
+# -------------  requirements.txt -------------
+streamlit==1.35.0
+yfinance==0.2.38
+pandas>=2.2
+numpy>=1.26
+plotly>=5.20
+curl-cffi>=0.6
+requests==2.32.3
+requests-cache==1.2.1
+attrs>=23.1          # dependencia de requests-cache
+# ---------------------------------------------
+
