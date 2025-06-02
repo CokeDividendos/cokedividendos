@@ -1,11 +1,6 @@
-attrs==25.3.0
-cattrs==25.1.0
-certifi==2025.4.26
-charset-normalizer==3.4.2
-idna==3.10
-platformdirs==4.3.8
-requests==2.32.3
-requests-cache==1.2.1
-typing_extensions==4.13.2
-url-normalize==2.2.1
-urllib3==2.4.0
+# Coke Dividendos – Streamlit App
+
+Aplicación de análisis fundamental y seguimiento de cartera construida con **Python + Streamlit**.
+
+* **Archivo principal:** `src/app.py`  
+* **Requisitos:** `requirements.txt`
